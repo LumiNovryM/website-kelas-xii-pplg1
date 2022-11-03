@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #1a1525;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.kotak-login{
+    width: 400px;
+    height: 600px;
+    background: #1a1525;
+    border-radius: 20px;
+    box-shadow:  19px 19px 51px #110d18,
+                -19px -19px 51px #231d32;
+}
+
+.image img{
+    height: 400px;
+}
