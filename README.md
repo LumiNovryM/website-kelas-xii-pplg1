@@ -64,3 +64,73 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Bulding
+
+Pertama 
+```sh
+git clone https://github.com/LumiNovryM/Laravel-Template.git
+```
+Kedua
+```sh
+cd Laravel-Template 
+code .
+```
+Ketiga
+```sh
+Buat file baru didalam file "public" dengan format huruf kecil tanpa spasi dan isi nama file dengan namamu sendiri
+Kemudian masukkan semua asset mu kedalam file tadi yang sudah dibuat
+```
+Keempat
+```sh
+kemudian masuk kedalam file "resources > views" dan masukkan file index kalian dan ubah nama file tersebut dengan format "nama_depan.blade.php", contoh : "lumi.blade.php"
+```
+Kelima 
+```sh
+Jika file index sudah dimasukkan dan sudah direname sesuai format maka jangan lupa ganti path style atau image yang ada didalam file index sesuai dengan path yang sudah kalian masukkan difolder public pada step ketiga
+```
+Keenam
+```sh
+Buat Controller baru, ketikkan perintah berikut diterminal VS Code kalian
+php artisan make:controller nama_file 
+contoh : php artisan make:controller Lumi
+```
+Ketujuh
+```sh
+Buat perintah berikut pada controller yang tadi sudah kalian buat
+class Lumi extends Controller
+{
+    public function Index() {
+        return view('nama_file_index');
+    }
+}
+```
+Kedelapan
+```sh
+Masuk kedalam folder "route" dan buat perintah berikut
+Route::get('/nama_file_index', [nama_controller_yang_tadi_di_dibuat::class, 'nama_function_pada_file_controller']);
+```
+Kesembilan
+```sh
+Terakhir buat tag <a> dan isi pathnya seusai dengan nama file html yang sudah dibuat
+Contoh: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>List</title>
+</head>
+<body>
+    <h1>Portfolio List</h1>
+    <a href="/lumi">Lumi Novry M</a>
+</body>
+</html>
+```
+
+
+
+
+
+
