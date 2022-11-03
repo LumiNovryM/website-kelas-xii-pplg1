@@ -112,7 +112,7 @@ Route::get('/nama_file_index', [nama_controller_yang_tadi_di_dibuat::class, 'nam
 ```
 Kesembilan
 ```sh
-Terakhir buat tag <a> dan isi pathnya seusai dengan nama file html yang sudah dibuat
+Terakhir buat tag <a> dan isi pathnya seusai dengan nama file html yang sudah dibuat didalam file index.blade.php pada "resources > views"
 Contoh: 
 <!DOCTYPE html>
 <html lang="en">
