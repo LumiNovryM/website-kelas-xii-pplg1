@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Lumi;
+use App\Http\Controllers\Rafa;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -22,4 +23,6 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/lumi', [Lumi::class, 'Index']);
+Route::get('/lumi', [Lumi::class, 'lumi']);
+
+Route::get('/rafa', [Rafa::class, 'rafa']);
