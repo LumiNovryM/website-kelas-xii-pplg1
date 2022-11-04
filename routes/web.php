@@ -6,6 +6,7 @@ use App\Http\Controllers\Ariq;
 use App\Http\Controllers\Dexie;
 use App\Http\Controllers\Kemal;
 use App\Http\Controllers\Atmaja;
+use App\Http\Controllers\Arrafi;
 use Illuminate\Support\Facades\Route;
 
 
@@ -39,3 +40,5 @@ Route::get('/dexie', [Dexie::class, 'index']);
 Route::get('/kemal', [Kemal::class, 'kemal']);
 
 Route::get('/atmaja', [Atmaja::class, 'atmaja']);
+
+Route::get('/arrafii', [Arrafi::class, 'arra']);
