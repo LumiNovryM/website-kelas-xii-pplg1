@@ -5,9 +5,47 @@
     margin: 0;
     padding: 0;
     font-size: 16px;
-    /* CURSOR CUYY */
-    /* cursor: url(https://cur.cursors-4u.net/symbols/sym-7/sym780.cur), auto !important; */
-    /* CURSOR CUYY */
+    transition: .3s all ease-in-out;
+}
+
+/* Switching Color Script */
+:root{
+    --primary-color: #10162a;
+    --card-color: #10162a;
+    --footer: #151d36;
+    --button: #28d3ee;
+    --text-button: #f3f3f3;
+    --card-shadow: 28px 28px 56px #0b0f1d,
+    -28px -28px 56px #151d37;
+    --lumi: #28d3ee;
+    --service: #fff;
+    --link: #f3f3f3;
+    --border: #46a6b4;
+    --thumb: #17b5ce;
+    --bg-thumb: #277d8a;
+}
+
+.dark-theme{
+    --primary-color: #f3f3f3;
+    --link: #474747;
+    --lumi: #474747;
+    --button: #474747;
+    --text-button: #474747;
+    --service: #474747;
+    --card-shadow: 6px 6px 12px #cccccc,
+    -6px -6px 12px #ffffff;
+    --card-color: #f3f3f3;
+    --footer: #d1cccc;
+    --border: #474747;
+    --thumb: #474747;
+    --bg-thumb: #838282;
+}
+
+#icon {
+    position: absolute;
+    right: 70px;
+    width: 25px;
+    cursor: pointer;
 }
 
 html{
@@ -15,7 +53,7 @@ html{
 }
 
 body{
-    background-color: #1a1525;
+    background-color: var(--primary-color);
 }
 
 header{
@@ -23,14 +61,14 @@ header{
     justify-content: center;
     position: sticky;
     top: 0;
-    background-color: #1a1525;
+    background-color: var(--primary-color);
     height: 80px;
     z-index: 1;
 }
 
 header nav{
     display: flex;
-    width: 90%;
+    width: 80%;
     justify-content: space-between;
     align-items: center;
 }
@@ -49,13 +87,14 @@ header nav ul li{
 
 header nav ul li a{
     text-decoration: none;
-    color: #f3f3f3;
+    color: var(--link);
 }
 
 .logo{
-    color: #f3f3f3;
+    color: var(--lumi);
     font-size: 1.3em;
     cursor: pointer;
+    font-weight: bold;
 }
 
 .BT{
@@ -76,6 +115,11 @@ header nav ul li a{
     align-items: center;
 }
 
+.lumi{
+    height: 400px;
+    border-radius: 10px;
+}
+
 .hero-content{
     /* background-color: aquamarine;    */
     height: 88vh;
@@ -93,13 +137,21 @@ header nav ul li a{
     justify-content: center;
     height: 30%;
     width: 10%;
-    color: #705edc;
+    color: var(--button);
 }
 
 .icon li{
     padding: 5px;
     font-size: 1em;
     cursor: pointer;
+}
+
+.icon li a{
+    color: var(--button);
+}
+
+.icon li a:active{
+    color: var(--button);
 }
 
 .desk{
@@ -111,7 +163,7 @@ header nav ul li a{
 
 .logo-2{
     font-size: 2em;
-    color: #f3f3f3;
+    color: var(--lumi);
     padding-bottom: 10px;
 }
 
@@ -128,8 +180,8 @@ h4, p{
 }
 
 .desk .BT-2{
-    background-color: #705edc;
-    border: 2px solid #705edc;
+    background-color: var(--button);
+    border: 2px solid var(--button);
     padding: 15px 25px;
     border-radius: 5px;
     color: #f3f3f3;
@@ -143,10 +195,10 @@ h4, p{
 
 .desk .BT-2:hover{
     background-color: rgba(0, 0, 0, 0);
-    border: 2px solid #705edc;
+    border: 2px solid var(--button);
     padding: 15px 25px;
     border-radius: 5px;
-    color: #f3f3f3;
+    color: var(--text-button);
     display: flex;
     align-items: center; 
     justify-content: center;
@@ -169,6 +221,11 @@ h4, p{
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+.lumi-abt{
+    height: 400px;
+    border-radius: 10px;
 }
 
 .title{
@@ -210,8 +267,8 @@ h4, p{
 }
 
 .abt-isi .text-abt button{
-    background-color: #705edc;
-    border: 2px solid #705edc;
+    background-color: var(--button);
+    border: 2px solid var(--button);
     padding: 15px 25px;
     border-radius: 5px;
     color: #f3f3f3;
@@ -223,10 +280,10 @@ h4, p{
 
 .abt-isi .text-abt button:hover{
     background-color: rgba(0, 0, 0, 0);
-    border: 2px solid #705edc;
+    border: 2px solid var(--button);
     padding: 15px 25px;
     border-radius: 5px;
-    color: #f3f3f3;
+    color: var(--text-button);
     display: flex;
     align-items: center; 
     justify-content: center;
@@ -244,9 +301,9 @@ h4, p{
 .service .card{
     height: 350px;
     width: 250px;
-    background-color: #201d34;
-    color: #705edc;
-    display:flex ;
+    background-color: var(--card-color);
+    color: var(--button);
+    display: flex;
     justify-content: end;
     /* align-items: center; */
     flex-direction: column;
@@ -255,24 +312,16 @@ h4, p{
     margin-bottom: 10px;
     border-radius: 10px;
     border-radius: 35px;
-    transition: .5s ease all;
+    box-shadow: var(--card-shadow);
 }
 
-.service .card:hover{
-    background: #1a1525;
-    box-shadow:  19px 19px 51px #110d18,
-                -19px -19px 51px #231d32;
+.card span{
+    cursor: pointer;
 }
-
-/* .service .card:hover{
-    background: #1a1525;
-    box-shadow:  19px 19px 51px #110d18,
-                -19px -19px 51px #231d32;
-} */
 
 .service .card h1{
     font-size: 2em;
-    color: #f3f3f3;
+    color: var(--service);
 }
 
 span{
@@ -295,12 +344,64 @@ span{
     justify-content: space-around;
     align-items: center;
 }
+/* PROJECT */
+.project{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 200px;
+    margin-top: 60px;
+}
+
+.pro-container{
+    border: 5px solid var(--border);
+    width: 800px;
+    height: 100vh;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+.pro-container .jumbo{
+    width: 800px;
+    border-bottom: 2px solid var(--border);
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+
+.thumbnail{
+    margin-top: -7px;
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.thumb{
+    width: 200px;
+    border: 2px solid var(--border);
+    box-sizing: border-box;
+    transition: 0.3s all ease-in-out;
+}
+
+#bottom-left{
+    border-bottom-left-radius: 13px;
+}
+
+#bottom-right{
+    border-bottom-right-radius: 13px;
+}
+
+.thumb:hover{
+    opacity: 0.5;
+    cursor: pointer ;
+}
+
 
 /* FOOTER */
 
 .footer{
     height: 10vh;
-    background-color: #1e1936;
+    background-color: var(--footer);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -315,11 +416,27 @@ span{
 
 ::-webkit-scrollbar{
     width: 8px;
-    background-color: #352d61;
+    background-color: var(--bg-thumb);
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color: #705edc ;
+    background-color: var(--thumb) ;
     border-radius: 6px;
+}
+
+/* Image Gallery Animation */
+@keyframes fade {
+    to {
+        opacity: 1;
+    }
+}
+
+.fade{
+    opacity: 0;
+    animation: fade 0.5s forwards;
+}
+
+.active{
+    opacity: 0.5;
 }
 
