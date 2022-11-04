@@ -17,5 +17,7 @@
     <a href="/dexie">Dexie Hazel</a>
     <br>
     <a href="/kemal">Kemal AL Ghifari</a>
+    <br>
+    <a href="/atmaja">Muhammad Rizky Atmaja</a>
 </body>
 </html>
