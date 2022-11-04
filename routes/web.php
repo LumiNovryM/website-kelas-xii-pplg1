@@ -2,7 +2,9 @@
 
 use App\Http\Controllers\Lumi;
 use App\Http\Controllers\Rafa;
+use App\Http\Controllers\Ariq;
 use Illuminate\Support\Facades\Route;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -26,3 +28,5 @@ Route::get('/', function () {
 Route::get('/lumi', [Lumi::class, 'lumi']);
 
 Route::get('/rafa', [Rafa::class, 'rafa']);
+
+Route::get('/ariqs', [Ariq::class, 'ariq']);
