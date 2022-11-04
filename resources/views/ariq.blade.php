@@ -66,7 +66,7 @@
 							</div>
 							<div class="media-body">
 								<h3 class="media-heading">Responsive Mobile</h3>
-								<p>Lavish CSS Template is designed by templatemo. Download, edit and use this layout.</p>
+								<p>CSS Template is designed by templatemo. Download, edit and use this layout.</p>
 							</div>
 						</div>
 					</div>
@@ -107,8 +107,7 @@
 					<div class="col-md-6 col-xs-11 wow fadeInLeft" data-wow-delay="0.9s">
 						<h2>ABOUT ARIQ</h2>
 						<h4>DESIGNER &AMP; DEVELOPER</h4>
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.</p>
-						<p>Dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+						<p>Learning CSS, HTML, Framework Laravel, PHP, JavaScript</p>
 					</div>
 					<div class="col-md-6 col-xs-11 wow fadeInRight" data-wow-delay="0.9s">
 						<span class="text-top">Web Design <small>82%</small></span>
