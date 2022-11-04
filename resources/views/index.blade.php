@@ -11,5 +11,7 @@
     <a href="/lumi">Lumi Novry M</a>
     <br>
     <a href="/rafa">Rafansyah</a>
+    <br>
+    <a href="/ariqs">M Ariq Azis</a>
 </body>
 </html>
