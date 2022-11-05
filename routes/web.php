@@ -24,6 +24,7 @@ use App\Http\Controllers\Septhea;
 use App\Http\Controllers\Fadiyah;
 use App\Http\Controllers\Fariz;
 use App\Http\Controllers\Adhen;
+use App\Http\Controllers\Wibowo;
 use Illuminate\Support\Facades\Route;
 
 
@@ -93,3 +94,5 @@ Route::get("/fadiyah", [Fadiyah::class, "fadiyah"]);
 Route::get("/fariz", [Fariz::class, "index"]);
 
 Route::get("/adhen", [Adhen::class, "adhen"]);
+
+Route::get("/wibowo", [Wibowo::class, "wibowo"]);
