@@ -17,6 +17,7 @@ use App\Http\Controllers\Ammar;
 use App\Http\Controllers\Arkan;
 use App\Http\Controllers\Fauzanalghifari;
 use App\Http\Controllers\Ripal;
+use App\Http\Controllers\Saady;
 use Illuminate\Support\Facades\Route;
 
 
@@ -72,3 +73,5 @@ Route::get("/arkan", [Arkan::class, "arkan"]);
 Route::get("/fauzanalghifari", [Fauzanalghifari::class, "fauzanalghifari"]);
 
 Route::get("/ripal", [Ripal::class, "ripal"]);
+
+Route::get("/saady", [Saady::class, "saady"]);
