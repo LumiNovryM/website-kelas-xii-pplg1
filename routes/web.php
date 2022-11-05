@@ -23,6 +23,7 @@ use App\Http\Controllers\Naoval;
 use App\Http\Controllers\Septhea;
 use App\Http\Controllers\Fadiyah;
 use App\Http\Controllers\Fariz;
+use App\Http\Controllers\Adhen;
 use Illuminate\Support\Facades\Route;
 
 
@@ -90,3 +91,5 @@ Route::get("/septhea", [Septhea::class, "septhea"]);
 Route::get("/fadiyah", [Fadiyah::class, "fadiyah"]);
 
 Route::get("/fariz", [Fariz::class, "index"]);
+
+Route::get("/adhen", [Adhen::class, "adhen"]);
