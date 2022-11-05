@@ -15,6 +15,7 @@ use App\Http\Controllers\Mahesa;
 use App\Http\Controllers\Rafi;
 use App\Http\Controllers\Ammar;
 use App\Http\Controllers\Arkan;
+use App\Http\Controllers\Fauzanalghifari;
 use Illuminate\Support\Facades\Route;
 
 
@@ -66,3 +67,5 @@ Route::get("/rafi", [Rafi::class, "rafi"]);
 Route::get("/amar", [Ammar::class, "ammar"]);
 
 Route::get("/arkan", [Arkan::class, "arkan"]);
+
+Route::get("/fauzanalghifari", [Fauzanalghifari::class, "fauzanalghifari"]);

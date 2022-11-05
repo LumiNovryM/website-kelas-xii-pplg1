@@ -35,5 +35,7 @@
     <a href="/amar">Ammar Karim Akbar</a>
     <br>
     <a href="/arkan">Arkan Syahla</a>
+    <br>
+    <a href="/fauzanalghifari">Fauzan Alghifari</a>
 </body>
 </html>
