@@ -20,6 +20,7 @@ use App\Http\Controllers\Ripal;
 use App\Http\Controllers\Saady;
 use App\Http\Controllers\Rafirei;
 use App\Http\Controllers\Naoval;
+use App\Http\Controllers\Septhea;
 use Illuminate\Support\Facades\Route;
 
 
@@ -81,3 +82,5 @@ Route::get("/saady", [Saady::class, "saady"]);
 Route::get("/rafirei", [Rafirei::class, "rafirei"]);
 
 Route::get("/naoval", [Naoval::class, "naoval"]);
+
+Route::get("/septhea", [Septhea::class, "septhea"]);
