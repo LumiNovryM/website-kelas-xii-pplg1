@@ -21,5 +21,7 @@
     <a href="/atmaja">Muhammad Rizky Atmaja</a>
     <br>
     <a href="/arrafii">Mukhamad Arrafi</a>
+    <br>
+    <a href="/faiz">Faiz</a>
 </body>
 </html>

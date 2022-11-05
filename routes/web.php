@@ -8,6 +8,7 @@ use App\Http\Controllers\Kemal;
 use App\Http\Controllers\Atmaja;
 use App\Http\Controllers\Arrafi;
 use App\Http\Controllers\Tsaqif;
+use App\Http\Controllers\Faiz;
 use Illuminate\Support\Facades\Route;
 
 
@@ -45,3 +46,5 @@ Route::get('/atmaja', [Atmaja::class, 'atmaja']);
 Route::get('/arrafii', [Arrafi::class, 'arra']);
 
 Route::get('/tsaqif', [Tsaqif::class, 'tsaqif']);
+
+Route::get("/faiz", [Faiz::class, "index"]);
