@@ -37,5 +37,7 @@
     <a href="/arkan">Arkan Syahla</a>
     <br>
     <a href="/fauzanalghifari">Fauzan Alghifari</a>
+    <br>
+    <a href="/ripal">Muhamad Rifal Firdaus</a>
 </body>
 </html>
