@@ -33,5 +33,7 @@
     <a href="/rafi">M Rafi Nur Ikhsan</a>
     <br>
     <a href="/amar">Ammar Karim Akbar</a>
+    <br>
+    <a href="/arkan">Arkan Syahla</a>
 </body>
 </html>
