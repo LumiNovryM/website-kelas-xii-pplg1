@@ -48,3 +48,5 @@ Route::get('/arrafii', [Arrafi::class, 'arra']);
 Route::get('/tsaqif', [Tsaqif::class, 'tsaqif']);
 
 Route::get("/faiz", [Faiz::class, "index"]);
+
+Route::get("/devi", [Faiz::class, "devi"]);
