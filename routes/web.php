@@ -19,6 +19,7 @@ use App\Http\Controllers\Fauzanalghifari;
 use App\Http\Controllers\Ripal;
 use App\Http\Controllers\Saady;
 use App\Http\Controllers\Rafirei;
+use App\Http\Controllers\Naoval;
 use Illuminate\Support\Facades\Route;
 
 
@@ -78,3 +79,5 @@ Route::get("/ripal", [Ripal::class, "ripal"]);
 Route::get("/saady", [Saady::class, "saady"]);
 
 Route::get("/rafirei", [Rafirei::class, "rafirei"]);
+
+Route::get("/naoval", [Naoval::class, "naoval"]);
