@@ -30,6 +30,8 @@
     <br>
     <a href="/mahesa">Mahesa Alfian Dhika</a>
     <br>
-    <a href="/rafi">jame</a>
+    <a href="/rafi">M Rafi Nur Ikhsan</a>
+    <br>
+    <a href="/amar">Ammar Karim Akbar</a>
 </body>
 </html>

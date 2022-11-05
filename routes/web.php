@@ -13,6 +13,7 @@ use App\Http\Controllers\Oktavia;
 use App\Http\Controllers\Devi;
 use App\Http\Controllers\Mahesa;
 use App\Http\Controllers\Rafi;
+use App\Http\Controllers\Ammar;
 use Illuminate\Support\Facades\Route;
 
 
@@ -60,3 +61,5 @@ Route::get("/okta", [Oktavia::class, "oktavia"]);
 Route::get("/mahesa", [Mahesa::class, "mahesa"]);
 
 Route::get("/rafi", [Rafi::class, "rafi"]);
+
+Route::get("/amar", [Ammar::class, "ammar"]);
