@@ -26,6 +26,7 @@ use App\Http\Controllers\Fariz;
 use App\Http\Controllers\Adhen;
 use App\Http\Controllers\Wibowo;
 use App\Http\Controllers\Avicena;
+use App\Http\Controllers\Fathir;
 use Illuminate\Support\Facades\Route;
 
 
@@ -99,3 +100,5 @@ Route::get("/adhen", [Adhen::class, "adhen"]);
 Route::get("/wibowo", [Wibowo::class, "wibowo"]);
 
 Route::get("/avicena", [Avicena::class, "avicena"]);
+
+Route::get("/fathir", [Fathir::class, "index"]);
