@@ -24,9 +24,9 @@
     <br>
     <a href="/faiz">Faiz</a>
     <br>
-    <a href="/devi">devi</a>
+    <a href="/devi">Devi Fadillah</a>
     <br>
-    <a href="/okta">oktavia</a>
+    <a href="/okta">Oktavia Ramadani</a>
     <br>
     <a href="/mahesa">Mahesa Alfian Dhika</a>
     <br>
@@ -49,5 +49,7 @@
     <a href="/septhea">Septhea Zisca</a>
     <br>
     <a href="/fadiyah">Fadiyah Putri</a>
+    <br>
+    <a href="/fariz">Fariz Rachman A.</a>
 </body>
 </html>
