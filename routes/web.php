@@ -9,6 +9,8 @@ use App\Http\Controllers\Atmaja;
 use App\Http\Controllers\Arrafi;
 use App\Http\Controllers\Tsaqif;
 use App\Http\Controllers\Faiz;
+use App\Http\Controllers\Oktavia;
+use App\Http\Controllers\Devi;
 use Illuminate\Support\Facades\Route;
 
 
@@ -49,4 +51,6 @@ Route::get('/tsaqif', [Tsaqif::class, 'tsaqif']);
 
 Route::get("/faiz", [Faiz::class, "index"]);
 
-Route::get("/devi", [Faiz::class, "devi"]);
+Route::get("/devi", [Devi::class, "devi"]);
+
+Route::get("/okta", [Oktavia::class, "oktavia"]);
