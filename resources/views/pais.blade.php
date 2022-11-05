@@ -93,7 +93,7 @@
             <div class="about-descr">
 
               <p class="p-heading">About Me</p>
-              <p class="separator">Saya merupakan Pelajar di SMK TARUNA BHAKTI dan saya masih duduk di kelas 11. dan saya menggambil jurusan rpl karena saya ingin mengetahui banyak hal tentang games dan car untuk membuat website.dan dalam kelas 11 ini saya mempelajari banyak hal seperti HTML , CSS , Figma , Javascript , AdobePhotoshop, PHP , Xammp</p>
+              <p class="separator">I am Faiz Fadilah, a student who tries new things. experience in this 11th grade I understand many things such as HTML, CSS, PHP, Figma, Laravel, Tallwind CSS, bootstrap</p>
 
             </div>
 
@@ -113,7 +113,7 @@
               <div class="services-block">
                 <i class="bi bi-briefcase"></i>
                 <span>HTML</span>
-                <p class="separator">Saya masih mendalami yang ada di HTML</p>
+                <p class="separator">I'm still learning what's in HTML</p>
               </div>
             </div><!-- End testimonial item -->
 
@@ -123,7 +123,7 @@
               <div class="services-block">
                 <i class="bi bi-bar-chart"></i>
                 <span>CSS</span>
-                <p class="separator">Saya cukup bisa untuk membuat tampilan menggunakan CSS</p>
+                <p class="separator">I am quite able to create views using CSS</p>
               </div>
             </div><!-- End testimonial item -->
 
@@ -131,7 +131,7 @@
               <div class="services-block">
                 <i class="bi bi-binoculars"></i>
                 <span>PHP</span>
-                <p class="separator">Saya masih mempelajari yang ada di PHP</p>
+                <p class="separator">I'm still learning what's in PHP</p>
               </div>
             </div><!-- End testimonial item -->
 
@@ -139,7 +139,7 @@
               <div class="services-block">
                 <i class="bi bi-brightness-high"></i>
                 <span>Figma</span>
-                <p class="separator">Saya cukup bisa untuk mendisain di Figma</p>
+                <p class="separator">I am good enough to design in Figma</p>
               </div>
             </div><!-- End testimonial item -->
 
@@ -147,7 +147,7 @@
               <div class="services-block">
                 <i class="bi bi-calendar4-week"></i>
                 <span>Javascript</span>
-                <p class="separator">Saya masih mempelajari yang ada di Javascript</p>
+                <p class="separator">I'm still learning what's in Javascript</p>
               </div>
             </div><!-- End testimonial item -->
 
@@ -269,8 +269,8 @@
 
                 <div class="journal-txt">
 
-                  <h4><a href="blog-single.html">Membuat Website Playlist Musik</a></h4>
-                  <p class="separator">Membuat website tentang playlist musik menurut genre dan top Song's
+                  <h4><a href="blog-single.html">Creating a Music Playlist Website</a></h4>
+                  <p class="separator">Create a website about music playlists by genre and top Song's
                   </p>
 
                 </div>
@@ -285,8 +285,8 @@
 
                 <div class="journal-txt">
 
-                  <h4><a href="blog-single.html">Membuat Website Data Tentang Keterlambatan</a></h4>
-                  <p class="separator">Membuat data Keterlambatan dan poin poin terlambat 
+                  <h4><a href="blog-single.html">Creating a Data Website About Delays</a></h4>
+                  <p class="separator">Creating Delay data and late points
                   </p>
 
                 </div>
@@ -301,8 +301,8 @@
 
                 <div class="journal-txt">
 
-                  <h4><a href="blog-single.html">Membuat Desain Di Figma</a></h4>
-                  <p class="separator">membuat tentang olshop dan data penjualan
+                  <h4><a href="blog-single.html">Making Designs In Figma</a></h4>
+                  <p class="separator">make about olshop and sales data
                   </p>
 
                 </div>
@@ -399,7 +399,16 @@
     </div>
   </div><!-- End Footer -->
 
+
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <div id="footer" class="text-center">
+    <div class="container">
+      <div class="socials-media text-center">
+        <p>© Copyrights By Faiz Fadilah.</p>
+        <div class="credits"> Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a></div>
+      </div>
+    </div>
+  </div>
 
   <!-- Vendor JS Files -->
   <script src="{{ asset('faizz/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>

@@ -11,6 +11,7 @@ use App\Http\Controllers\Tsaqif;
 use App\Http\Controllers\Faiz;
 use App\Http\Controllers\Oktavia;
 use App\Http\Controllers\Devi;
+use App\Http\Controllers\Mahesa;
 use Illuminate\Support\Facades\Route;
 
 
@@ -54,3 +55,5 @@ Route::get("/faiz", [Faiz::class, "index"]);
 Route::get("/devi", [Devi::class, "devi"]);
 
 Route::get("/okta", [Oktavia::class, "oktavia"]);
+
+Route::get("/mahesa", [Mahesa::class, "mahesa"]);
