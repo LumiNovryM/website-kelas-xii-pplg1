@@ -61,5 +61,7 @@
     <a href="/fathir">Fathir Akmal Burhanudin</a>
     <br>
     <a href="/ridho">Ridho Rizqi Pambudi</a>
+    <br>
+    <a href="/thoriq">Thoriq Nabil Mumtaz</a>
 </body>
 </html>
