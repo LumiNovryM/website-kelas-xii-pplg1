@@ -59,5 +59,7 @@
     <a href="/avicena">avicena</a>
     <br>
     <a href="/fathir">Fathir Akmal Burhanudin</a>
+    <br>
+    <a href="/ridho">Ridho Rizqi Pambudi</a>
 </body>
 </html>

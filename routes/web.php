@@ -27,6 +27,7 @@ use App\Http\Controllers\Adhen;
 use App\Http\Controllers\Wibowo;
 use App\Http\Controllers\Avicena;
 use App\Http\Controllers\Fathir;
+use App\Http\Controllers\RidhoController;
 use Illuminate\Support\Facades\Route;
 
 
@@ -102,3 +103,5 @@ Route::get("/wibowo", [Wibowo::class, "wibowo"]);
 Route::get("/avicena", [Avicena::class, "avicena"]);
 
 Route::get("/fathir", [Fathir::class, "index"]);
+
+Route::get("/ridho", [RidhoController::class, "index"]);
