@@ -70,5 +70,6 @@
     <br>
     <a href="/rizki">Rizki amelia</a>
     <br>
+    <a href="/hidayatuloh">hidayatuloh</a>
 </body>
 </html>
