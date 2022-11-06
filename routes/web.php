@@ -34,7 +34,7 @@ use App\Http\Controllers\Fadli;
 use App\Http\Controllers\Rizkyadi;
 use App\Http\Controllers\Adi;
 use App\Http\Controllers\Rizki;
-use App\Http\Controllers\Hidayatuloh;
+use App\Http\Controllers\Hidayatulloh;
 use Illuminate\Support\Facades\Route;
 
 
@@ -123,4 +123,4 @@ Route::get("/rizkyadi", [Adi::class, "adi"]);
 
 Route::get("/rizki", [Rizki::class, "rizki"]);
 
-Route::get("/hidayatuloh", [Hidayatuloh::class, "hidayatuloh"]);
+Route::get("/hidayatulloh", [Hidayatulloh::class, "hidayatulloh"]);

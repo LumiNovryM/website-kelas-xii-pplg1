@@ -23,32 +23,30 @@
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="favicon.ico">
 
-	<link href="hidayatt/https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
-	<link href="hidayatt/https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
 	
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="hidayatt/css/animate.css">
+	<link rel="stylesheet" href="hidayatullohh/css/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="hidayatt/css/icomoon.css">
+	<link rel="stylesheet" href="hidayatullohh/css/icomoon.css">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="hidayatt/css/bootstrap.css">
+	<link rel="stylesheet" href="hidayatullohh/css/bootstrap.css">
 	<!-- Owl Carousel -->
-	<link rel="stylesheet" href="hidayatt/css/owl.carousel.min.css">
-	<link rel="stylesheet" href="hidayatt/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="hidayatullohh/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="hidayatullohh/css/owl.theme.default.min.css">
 	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="hidayatt/css/magnific-popup.css">
+	<link rel="stylesheet" href="hidayatullohh/css/magnific-popup.css">
 
-	<link rel="stylesheet" href="hidayatt/css/style.css">
+	<link rel="stylesheet" href="hidayatullohh/css/style.css">
 
 
 	<!-- Modernizr JS -->
-	<script src="hidayatt/js/modernizr-2.6.2.min.js"></script>
+	<script src="hidayatullohh/js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
-	
+	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
-	<script src="hidayatt/js/respond.min.js"></script>
 
 	</head>
 	<body>
@@ -65,31 +63,31 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="row">
+				<div class="row">
 					<div class="col-md-12">
-						<ul>
-							<li class="active"><a href="hidayatt/index.html">Home</a></li>
-							<li><a href="hidayatt/services.html">Services</a></li>
-							<li><a href="hidayatt/work.html">Work</a></li>
-							<li><a href="hidayatt/blog.html">Blog</a></li>
-							<li><a href="hidayatt/about.html">About</a></li>
-							<li><a href="hidayatt/contact.html">Contact</a></li>
-						</ul>
+						<!-- <ul>
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="services.html">Services</a></li>
+							<li><a href="work.html">Work</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul> -->
 					</div>
-				</div> -->
+				</div>
 				<div class="row">
 					<div class="col-md-12">
 						<h2 class="head-title">Works</h2>
-						<a href="hidayatt/images/work-1.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatt/images/work-1.jpg);">
+						<a href="images/work-1.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatullohh/images/work-1.jpg);">
 							<span><i class="icon-search3"></i></span>
 						</a>
-						<a href="hidayatt/images/work-2.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatt/images/work-2.jpg);">
+						<a href="images/work-2.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatullohh/images/work-2.jpg);">
 							<span><i class="icon-search3"></i></span>
 						</a>
-						<a href="hidayatt/images/work-3.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatt/images/work-3.jpg);">
+						<a href="images/work-3.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatullohh/images/work-3.jpg);">
 							<span><i class="icon-search3"></i></span>
 						</a>
-						<a href="hidayatt/images/work-4.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatt/images/work-4.jpg);">
+						<a href="images/work-4.jpg" class="gallery image-popup-link text-center" style="background-image: url(hidayatullohh/images/work-4.jpg);">
 							<span><i class="icon-search3"></i></span>
 						</a>
 					</div>
@@ -122,10 +120,10 @@
 					<div class="col-md-5 animate-box">
 						<div class="owl-carousel3">
 							<div class="item">
-								<img class="img-responsive about-img" src="hidayatt/images/avatar.jpg" alt="html5 bootstrap template by colorlib.com">
+								<img class="img-responsive about-img" src="hidayatullohh/images/avatar.jpg" alt="html5 bootstrap template by colorlib.com">
 							</div>
 							<div class="item">
-								<img class="img-responsive about-img" src="hidayatt/images/index.jpg" alt="html5 bootstrap template by colorlib.com">
+								<img class="img-responsive about-img" src="hidayatullohh/images/index.jpg" alt="html5 bootstrap template by colorlib.com">
 							</div>
 						</div>
 					</div>
@@ -200,7 +198,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="one-forth services-img" style="background-image: url(hidayatt/images/services-img-1.jpg);">
+							<div class="one-forth services-img" style="background-image: url(hidayatullohh/images/services-img-1.jpg);">
 							</div>
 						</div>
 					</div>
@@ -208,12 +206,12 @@
 			</div>
 		</div>
 
-		<div id="colorlib-work">
+		<!-- <div id="colorlib-work">
 			<div class="container">
 				<div class="row text-center">
 					<h2 class="bold">Works</h2>
 				</div>
-				<!-- <div class="row">
+				<div class="row">
 					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
 						<span>Portfolio</span>
 						<h2>Done Projects</h2>
@@ -229,7 +227,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(hidayatt/images/work-1.jpg);">
+							<a href="work.html" class="work-img" style="background-image: url(hidayatullohh/images/work-1.jpg);">
 								<div class="display-t">
 									<div class="work-name">
 										<h2>Pursuing Best</h2>
@@ -246,7 +244,7 @@
 					</div>
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(hidayatt/images/work-2.jpg);">
+							<a href="work.html" class="work-img" style="background-image: url(hidayatullohh/images/work-2.jpg);">
 								<div class="display-t">
 									<div class="work-name">
 										<h2>Coordinates</h2>
@@ -263,7 +261,7 @@
 					</div>
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(hidayatt/images/work-3.jpg);">
+							<a href="work.html" class="work-img" style="background-image: url(hidayatullohh/images/work-3.jpg);">
 								<div class="display-t">
 									<div class="work-name">
 										<h2>Cristall</h2>
@@ -280,7 +278,7 @@
 					</div>
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(hidayatt/images/work-4.jpg);">
+							<a href="work.html" class="work-img" style="background-image: url(hidayatullohh/images/work-4.jpg);">
 								<div class="display-t">
 									<div class="work-name">
 										<h2>Black</h2>
@@ -323,7 +321,7 @@
 							<div class="col-md-12">
 								<div class="article">
 									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="hidayatt/images/img-1.jpg" alt="html5 bootstrap by colorlib.com">
+										<img class="img-responsive" src=hidayatullohh/images/img-1.jpg" alt="html5 bootstrap by colorlib.com">
 										<div class="overlay"></div>
 										<div class="link">
 											<span class="read">Read more</h2>
@@ -341,7 +339,7 @@
 							<div class="col-md-12">
 								<div class="article">
 									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="hidayatt/images/img-2.jpg" alt="html5 bootstrap by colorlib.com">
+										<img class="img-responsive" src="hidayatullohh/images/img-2.jpg" alt="html5 bootstrap by colorlib.com">
 										<div class="overlay"></div>
 										<div class="link">
 											<span class="read">Read more</h2>
@@ -359,7 +357,7 @@
 							<div class="col-md-12">
 								<div class="article">
 									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="hidayatt/images/img-3.jpg" alt="html5 bootstrap by colorlib.com">
+										<img class="img-responsive" src="hidayatullohh/images/img-3.jpg" alt="html5 bootstrap by colorlib.com">
 										<div class="overlay"></div>
 										<div class="link">
 											<span class="read">Read more</h2>
@@ -455,21 +453,21 @@
 						<div class="col-md-4 col-pb-sm">
 							<h2>Latest Blog</h2>
 							<div class="f-entry">
-								<a href="#" class="featured-img" style="background-image: url(hidayatt/images/img-1.jpg);"></a>
+								<a href="#" class="featured-img" style="background-image: url(hidayatullohh/images/img-1.jpg);"></a>
 								<div class="desc">
 									<span>February 15, 2018</span>
 									<h3><a href="#">Art Gallery in Japan</a></h3>
 								</div>
 							</div>
 							<div class="f-entry">
-								<a href="#" class="featured-img" style="background-image: url(hidayatt/images/img-2.jpg);"></a>
+								<a href="#" class="featured-img" style="background-image: url(hidayatullohh/images/img-2.jpg);"></a>
 								<div class="desc">
 									<span>February 9, 2018</span>
 									<h3><a href="#">A Japanese Constellation</a></h3>
 								</div>
 							</div>
 							<div class="f-entry">
-								<a href="#" class="featured-img" style="background-image: url(hidayatt/images/img-3.jpg);"></a>
+								<a href="#" class="featured-img" style="background-image: url(hidayatullohh/images/img-3.jpg);"></a>
 								<div class="desc">
 									<span>February 15, 2018</span>
 									<h3><a href="#">Road Trip</a></h3>
@@ -503,21 +501,21 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	</div>
 
 	<!-- jQuery -->
-	<script src="hidayatt/js/jquery.min.js"></script>
+	<script src="hidayatullohh/js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
-	<script src="hidayatt/js/jquery.easing.1.3.js"></script>
+	<script src="hidayatullohh/js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
-	<script src="hidayatt/js/bootstrap.min.js"></script>
+	<script src="hidayatullohh/js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
-	<script src="hidayatt/js/jquery.waypoints.min.js"></script>
+	<script src="hidayatullohh/js/jquery.waypoints.min.js"></script>
 	<!-- Owl Carousel -->
-	<script src="hidayatt/js/owl.carousel.min.js"></script>
+	<script src="hidayatullohh/js/owl.carousel.min.js"></script>
 	<!-- Magnific Popup -->
-	<script src="hidayatt/js/jquery.magnific-popup.min.js"></script>
-	<script src="hidayatt/js/magnific-popup-options.js"></script>
+	<script src="hidayatullohh/js/jquery.magnific-popup.min.js"></script>
+	<script src="hidayatullohh/js/magnific-popup-options.js"></script>
 
 	<!-- Main JS (Do not remove) -->
-	<script src="hidayatt/js/main.js"></script>
+	<script src="hidayatullohh/js/main.js"></script>
 
 	</body>
 </html>
