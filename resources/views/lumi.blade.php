@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio | Lumi Novry M</title>
-    <!-- Style CSS -->
+    {{-- Link CSS --}}
     <link rel="stylesheet" href="luminovrym/Style/style.css">
-    <!-- Icons -->
+    {{-- Icons --}}
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
-    <!-- Favicon -->
+    {{-- Favicon --}}
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="luminovrym/ico/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="luminovrym/ico/apple-touch-icon-114x114.png" />
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="luminovrym/ico/apple-touch-icon-72x72.png" />
@@ -35,23 +35,25 @@
 </head>
 <body>
    
-    <!-- NAVBAR AGAR TAK TERSESAT-->
-
+    
+    {{-- Navbar Start --}}
     <header>
         <nav>
             <p class="logo">Lumi Novry M</p>
             <ul>
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#About">About</a></li>
+                <li><a href="#Skill">Skill</a></li>
                 <li><a href="#Service">Service</a></li>
                 <li><a href="#Project">Project</a></li>
             </ul>  
             <img src="luminovrym/Image/sun.png" id="icon">
         </nav>
     </header>
+    {{-- Navbar End --}}
 
-    <!-- CONTENT CUYY -->
-
+    
+    {{-- Hero Start --}}
     <div class="ortu" id="Home">
         <div class="hero-content">
             <ul class="icon">
@@ -70,8 +72,10 @@
             </div>
         </div>
     </div>
-    <!-- ABOUT SUPAYA KAMU KENAL AKU HEHE -->
+    {{-- Hero End --}}
 
+
+    {{-- About Start --}}
     <div class="about" id="About">
         <div class="title">
             <h1>About Me</h1>
@@ -86,8 +90,99 @@
         </div>
         <p id="Service"></p>
     </div>
+    {{-- About End --}}
 
-    <!-- SERVICE SUPAYA KAMU TAU AKU NGERJAIN APA -->
+
+    {{-- SKill Start--}}
+    <section class="skill" id="Skill">
+            <h1 class="kl">SKills</h1>
+            <p>My Expertise</p>
+        <div class="skills-container">
+            <div class="kiri">
+                <div class="bars">
+                    <h3 class="bb">Front-End Developer</h3>
+                    <!-- Box 1 -->
+                    <div class="bars-box">
+                        <h3>HTML</h3>
+                        <span class="persentase">90%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar html-bar"></div>
+                    </div>
+                    <!-- Box 2 -->
+                    <div class="bars-box">
+                        <h3>CSS</h3>
+                        <span class="persentase">90%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar css-bar"></div>
+                    </div>
+                    <!-- Box 3 -->
+                    <div class="bars-box">
+                        <h3>JavaScript</h3>
+                        <span class="persentase">75%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar js-bar"></div>
+                    </div>
+                    <!-- Box 4 -->
+                    <div class="bars-box">
+                        <h3>Git & Github</h3>
+                        <span class="persentase">95%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar git-bar"></div>
+                    </div>
+                    <!-- box 5 -->
+                    <div class="bars-box">
+                        <h3>UI / UX</h3>
+                        <span class="persentase">85%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar uiux-bar"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="kanan">
+                <div class="bars">
+                    <h3 class="bb">Back-End Developer</h3>
+                    <!-- Box 1 -->
+                    <div class="bars-box">
+                        <h3>Node Js</h3>
+                        <span class="persentase">45%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar node-bar"></div>
+                    </div>
+                    <!-- Box 2 -->
+                    <div class="bars-box">
+                        <h3>PHP</h3>
+                        <span class="persentase">75%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar php-bar"></div>
+                    </div>
+                    <!-- Box 3 -->
+                    <div class="bars-box">
+                        <h3>MYSQL</h3>
+                        <span class="persentase">75%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar sql-bar"></div>
+                    </div>
+                    <!-- Box 4 -->
+                    <div class="bars-box">
+                        <h3>Laravel</h3>
+                        <span class="persentase">68%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar laravel-bar"></div>
+                    </div>
+                    <!-- box 5 -->
+                    <div class="bars-box">
+                        <h3>API</h3>
+                        <span class="persentase">85%</span>
+                        <div class="light-bar"></div>
+                        <div class="percent-bar api-bar"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{-- SKill End--}}
+
+    {{-- Service Start --}}
     <div class="service" id="Service">
         <div class="title">
             <h1>Service</h1>
@@ -111,9 +206,10 @@
             </div>
         </div>
     </div>
+    {{-- Service End --}}
 
-     <!-- Project -->
-     <div class="project">
+    {{-- Project Start --}}
+    <div class="project">
         <div class="title">
             <h1 class="mark">My Project</h1>
             <p>Project Results</p>
@@ -132,15 +228,19 @@
             </div>
         </div>
     </div>
+    {{-- Project End --}}
 
+    {{-- Footer Start --}}
     <div class="footer">
             <h4>Copyright 2022 <sup>&#169;</sup></h4>
     </div>
+    {{-- Footer End --}}
+
+    
+    {{-- Favicons Link --}}
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-
-    <!-- Script -->
+    {{-- Script --}}
     <script src="luminovrym/Javascript/script.js"></script>
 </body>
 </html>
