@@ -31,6 +31,8 @@ use App\Http\Controllers\RidhoController;
 use App\Http\Controllers\Dhykas;
 use App\Http\Controllers\Thoriq;
 use App\Http\Controllers\Fadli;
+use App\Http\Controllers\Rizkyadi;
+use App\Http\Controllers\Adi;
 use Illuminate\Support\Facades\Route;
 
 
@@ -114,3 +116,5 @@ Route::get("/Dhykas", [Dhykas::class, "index"]);
 Route::get("/thoriq", [Thoriq::class, "thoriq"]);
 
 Route::get("/fadli", [Fadli::class, "fadli"]);
+
+Route::get("/rizkyadi", [Adi::class, "adi"]);

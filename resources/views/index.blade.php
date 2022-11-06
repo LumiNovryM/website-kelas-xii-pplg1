@@ -65,5 +65,8 @@
     <a href="/thoriq">Thoriq Nabil Mumtaz</a>
     <br>
     <a href="/fadli">muhamad fadli</a>
+    <br>
+    <a href="/rizkyadi">Rizky Adinugraha</a>
+    <br>
 </body>
 </html>
