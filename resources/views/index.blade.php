@@ -68,5 +68,7 @@
     <br>
     <a href="/rizkyadi">Rizky Adinugraha</a>
     <br>
+    <a href="/rizki">Rizki amelia</a>
+    <br>
 </body>
 </html>

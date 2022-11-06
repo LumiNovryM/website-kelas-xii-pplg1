@@ -33,6 +33,7 @@ use App\Http\Controllers\Thoriq;
 use App\Http\Controllers\Fadli;
 use App\Http\Controllers\Rizkyadi;
 use App\Http\Controllers\Adi;
+use App\Http\Controllers\Rizki;
 use Illuminate\Support\Facades\Route;
 
 
@@ -118,3 +119,5 @@ Route::get("/thoriq", [Thoriq::class, "thoriq"]);
 Route::get("/fadli", [Fadli::class, "fadli"]);
 
 Route::get("/rizkyadi", [Adi::class, "adi"]);
+
+Route::get("/rizki", [Rizki::class, "rizki"]);
