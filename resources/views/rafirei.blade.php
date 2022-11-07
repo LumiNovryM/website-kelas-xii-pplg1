@@ -125,7 +125,7 @@
 								<h1>I'm Rafi Rei Riordan</h1>
 
 								<p>
-									Web Developer, Chronic Otaku, & Sports Pleb
+									Web Developer & Programmer
 								</p>
 
 								<div class='intro-btns'>
@@ -206,12 +206,11 @@
 								<div class='about-text'>
 									<p>
 										Hi! My name is Rei. I’m a 17-year-old boy from Jakarta, Indonesia. I’m currently
-										in my freshmen year of high school, doing coding and stuff. I was known to be a
-										rather polished and quiet person. Currently I’m aspiring to be a programmer or
+										in my freshmen year of high school, doing coding and stuff.Currently I’m aspiring to be a programmer or
 										developer. I primarily create webs using HTML and CSS as of recently, though i
 										have also made some games using HTML and JS. Overall, my time as a programmer
 										has
-										lots of ups and downs, But it's been fun.
+										lots of ups and downs, But it's been fun. I'm currently looking forward to working with a lot of other programmers to increase my knowledge in coding.
 									</p>
 
 								</div>
@@ -639,8 +638,7 @@
 
 									<p>
 										So far, I greatly enjoyed High School in Taruna Bhakti, because I get to test
-										myself out of my comfort zone and be able to learn about programming (and also
-										learning about love because why not lol). It’s been an awesome experience.
+										myself out of my comfort zone and be able to learn about programming, and work together with many of my friends in coding.
 									</p>
 
 								</div>
@@ -819,7 +817,7 @@
 
 								<div class='author'>
 									<h4>Charles Leclerc</h4>
-									<span>Sexy Boy</span>
+									<span>F1 Driver</span>
 								</div>
 
 							</div>
@@ -1226,7 +1224,7 @@
 
 										<p>
 											(+62) 877-8416-2211<br>
-											(+62) 21-873-0173
+											(+62) 021-873-0173
 										</p>
 
 									</div>
@@ -1238,7 +1236,7 @@
 
 										<p>
 											www.google.com<br>
-											www.example.com
+											reiboyot05@gmail.com
 										</p>
 
 									</div>
