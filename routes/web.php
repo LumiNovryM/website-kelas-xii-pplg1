@@ -115,7 +115,7 @@ Route::get("/fathir", [Fathir::class, "index"]);
 
 Route::get("/ridho", [RidhoController::class, "index"]);
 
-Route::get("/Dhykas", [Dhykas::class, "index"]);
+Route::get("/dhykass", [Dhykas::class, "dhykas"]);
 
 Route::get("/thoriq", [Thoriq::class, "thoriq"]);
 

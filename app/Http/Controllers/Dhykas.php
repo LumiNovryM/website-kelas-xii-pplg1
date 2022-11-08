@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class Dhykas extends Controller
 {
-    public function Dhykas() {
-        return view('Dhykas');
+    public function dhykas() {
+        return view('dhykas');
     }
 }
