@@ -1,12 +1,3 @@
-/*
-    
-TemplateMo 557 Grad School
-
-https://templatemo.com/tm-557-grad-school
-
-*/
-
-
 @import url(fontawesome.css);
 @import url("<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">");
 body {
@@ -165,12 +156,13 @@ a.menu-link { display: none; }
 }
 
 .main-header {
-    background-color: rgba(22,34,57,0.95);
+    background-color: #10101a;
     height: 80px;
     position: fixed;
     z-index: 12;
     width: 100%;
     top: 0;
+    /* rgba(22,34,57,0.95); */
 }
 
 .main-header .logo {
@@ -314,7 +306,7 @@ a.menu-link { display: none; }
     background-color: rgba(22,34,57,0.85);
     top: 0;
     left: 0;
-    bottom: 7px;
+    bottom: 1px;
     width: 100%;
 }
 
@@ -811,6 +803,7 @@ section.courses .item img {
 section.courses .item .down-content {
     padding: 30px;
     background-color: #fff;
+    height: 190px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
 }
@@ -886,10 +879,10 @@ section.courses .owl-carousel button.active {
 /* Video */
 
 section.video {
-    background-image: url(../images/video-bg.jpg);
+    /* background-image: url(../images/video-bg.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #172238;
+    background-color: #10101a;
     padding: 120px 0px;
 }
 
@@ -1447,10 +1440,10 @@ img.mfp-img {
 /* Contact */
 
 section.contact {
-    background-image: url(../images/contact-bg.jpg);
+    /* background-image: url(../images/contact-bg.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #172238;
+    background-color: #10101a;
     padding-bottom: 120px;
 }
 

@@ -40,14 +40,15 @@ https://templatemo.com/tm-557-grad-school
     <nav id="menu" class="main-nav" role="navigation">
       <ul class="main-menu">
         <li><a href="#section1">Home</a></li>
-        <li class="has-submenu"><a href="#section2">About Us</a>
-          <ul class="sub-menu">
+        <!-- <li class="has-submenu"> -->
+        <li><a href="#section2">About Us</a>
+          <!-- <ul class="sub-menu">
             <li><a href="#section2">Who we are?</a></li>
             <li><a href="#section3">What we do?</a></li>
             <li><a href="#section3">How it works?</a></li>
-          </ul>
+          </ul> -->
         </li>
-        <li><a href="#section4">Courses</a></li>
+        <li><a href="#section4">Portfolio</a></li>
         <!-- <li><a href="#section5">Video</a></li> -->
         <li><a href="#section6">Contact</a></li>
       </ul>
@@ -73,7 +74,7 @@ https://templatemo.com/tm-557-grad-school
   <!-- ***** Main Banner Area End ***** -->
 
 
-  <section class="features">
+  <!-- <section class="features">
     <div class="container">
       <div class="row">
         <div class="col-lg-4 col-12">
@@ -120,7 +121,7 @@ https://templatemo.com/tm-557-grad-school
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="section why-us" data-section="section2">
     <div class="container">
@@ -133,9 +134,9 @@ https://templatemo.com/tm-557-grad-school
         <div class="col-md-12">
           <div id='tabs'>
             <ul>
-              <li><a href='#tabs-1'>Best Education</a></li>
-              <li><a href='#tabs-2'>Top Management</a></li>
-              <li><a href='#tabs-3'>Quality Meeting</a></li>
+              <!-- <li><a href='#tabs-1'>ABOUT US</a></li>
+              <li><a href='#tabs-2'></a></li>
+              <li><a href='#tabs-3'>SOCIAL MEDIA</a></li> -->
             </ul>
             <section class='tabs-content'>
               <article id='tabs-1'>
@@ -144,12 +145,12 @@ https://templatemo.com/tm-557-grad-school
                     <img src="/index/assets/images/landscape-pplg1.jpeg" alt="">
                   </div>
                   <div class="col-md-6">
-                    <h4>Best Education</h4>
-                    <p>Grad School is free educational HTML template with Bootstrap 4.5.2 CSS layout. Feel free to use it for educational or commercial purposes. You may want to make <a href="https://paypal.me/templatemo" target="_parent" rel="sponsored">a little donation</a> to TemplateMo. Please tell your friends about us. Thank you.</p>
+                    <h4>Who are we?</h4>
+                    <p>We are ONE SOLVER. One Solver is a website that aims to provide information about projects and means of showing our portfolio. For now we are class XI PPLG 1. Located at Taruna Bhakti Vocational High School, Depok</p>
                   </div>
                 </div>
               </article>
-              <article id='tabs-2'>
+              <!-- <article id='tabs-2'>
                 <div class="row">
                   <div class="col-md-6">
                     <img src="/index/assets/images/choose-us-image-02.png" alt="">
@@ -171,7 +172,7 @@ https://templatemo.com/tm-557-grad-school
                     <p>You are NOT allowed to redistribute this template ZIP file on any template collection website. However, you can use this template to convert into a specific theme for any kind of CMS platform such as WordPress. For more information, you shall <a rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact TemplateMo</a> now.</p>
                   </div>
                 </div>
-              </article>
+              </article> -->
             </section>
           </div>
         </div>
@@ -184,7 +185,7 @@ https://templatemo.com/tm-557-grad-school
       <div class="row">
         <div class="col-md-12">
           <div class="section-heading">
-            <h2>Portofolio Kelas</h2>
+            <h2>Class Portfolio</h2>
           </div>
         </div>
         <div class="owl-carousel owl-theme">
@@ -193,7 +194,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Adhen Leo Lynhaztanto</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="Author 1">
+                <img src="/index/assets/images/pfp-murid/pfp-adhenleo.jpeg" alt="Author 1">
               </div>
               <div class="text-button-pay">
                 <a href="/adhen">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -205,7 +206,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Ammar Karim Akbar</h4>
               <div class="author-image">
-                <img src="/index/assets/images/pfp-murid/" alt="Author 2">
+                <img src="/index/assets/images/pfp-murid/pfp-ammarkarim.jpeg" alt="Author 2">
               </div>
               <div class="text-button-pay">
                 <a href="/amar">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -215,9 +216,9 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-avicenna.png" alt="Course #3">
             <div class="down-content">
-              <h4>Avicenna Putra</h4>
+              <h4>Avicenna Putra Prasetyo</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-03.png" alt="Author 3">
+                <img src="/index/assets/images/pfp-murid/pfp-avicennaputra.jpg" alt="Author 3">
               </div>
               <div class="text-button-pay">
                 <a href="/avicena">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -229,7 +230,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Devi Fadilla</h4>
               <div class="author-image">
-                <img src="/index/assets/images/pfp-murid/" alt="Author 4">
+                <img src="/index/assets/images/pfp-murid/pfp-devifadillah.jpg" alt="Author 4">
               </div>
               <div class="text-button-free">
                 <a href="/devi">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -239,9 +240,9 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-dexiehazel.png" alt="">
             <div class="down-content">
-              <h4>Dexie Hazel</h4>
+              <h4>Dexie Hazel Javier Danendra</h4>
               <div class="author-image">
-                <img src="/index/assets/images/pfp-murid/" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-dexiehazel.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/dexie"">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -251,9 +252,9 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-fadiyahputri.png" alt="">
             <div class="down-content">
-              <h4>Fadiyah Putri Lestari</h4>
+              <h4>Fadiyah Putri Sri Lestari</h4>
               <div class="author-image">
-                <img src="/index/assets/images/pfp-murid/" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-fadiyahputri.png" alt="">
               </div>
               <div class="text-button-free">
                 <a href="/fadiyah">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -265,7 +266,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Faiz Fadillah</h4>
               <div class="author-image">
-                <img src="/index/assets/images/pfp-murid/" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-faizfadil.jpeg" alt="">
               </div>
               <div class="text-button-free">
                 <a href="/faiz">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -289,7 +290,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Fathir Akmal Burhanudin</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-04.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/fathir">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -301,7 +302,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Fauzan Alghifari</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-05.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-fauzanalgh.jpg" alt="">
               </div>
               <div class="text-button-free">
                 <a href="/fauzanalghifari">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -311,9 +312,9 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
             <div class="down-content">
-              <h4>Fauzan Kirana</h4>
+              <h4>Fauzan Kirana Faiq Wibowo</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-fauzankirana.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/wibowo">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -325,7 +326,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Kanny Indira Baihaqi</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/kanny">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -337,7 +338,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Kemal Al Ghifari</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-kemalalgh.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/kemal">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -347,9 +348,9 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-luminovry.png" alt="">
             <div class="down-content">
-              <h4>Lumi Novry Meikel</h4>
+              <h4>Lumi Novry Meckel</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/lumi">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -361,7 +362,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Mahesa Alfian Dhika</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/mahesa">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -371,7 +372,7 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-m.ariq.png" alt="">
             <div class="down-content">
-              <h4>Muhammad Ariq Azis</h4>
+              <h4>Muhamad Ariq Azis Alhafits</h4>
               <div class="author-image">
                 <img src="/index/assets/images/pfp-murid/pfp-muhammad-ariq.jpg" alt="">
               </div>
@@ -381,11 +382,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-mrifal.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-muhammad-andhika.png" alt="">
             <div class="down-content">
               <h4>Muhammad Andhika Saputra</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-m-andhika.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/dhykass">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -397,7 +398,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Muhammad Fadli Kurniawan</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-mfadli.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/fadli">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -409,7 +410,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Muhammad Arkan Syahla</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-markan.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/arkan">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -421,7 +422,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Muhammad Nadim</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-muhammadnadim.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/nadim">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -433,7 +434,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Muhammad Rafi Nur Iksan</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-rafinur.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/rafi">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -445,7 +446,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Muhammad Rizky Atmaja</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-mrizkyatm.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/atmaja">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -467,9 +468,9 @@ https://templatemo.com/tm-557-grad-school
           <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-muhammadarrafi.png" alt="">
             <div class="down-content">
-              <h4>Mukhammad Arrafi</h4>
+              <h4>Mukhamad Arrafi</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-m-arrafi.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/arrafii">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -477,11 +478,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-naoval.png" alt="">
             <div class="down-content">
               <h4>Naoval Fadillah</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-naovalfadillah.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/naoval">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -489,11 +490,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-oktaviaramadhani.png" alt="">
             <div class="down-content">
               <h4>Oktavia Ramadhani</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-oktavia.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/okta">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -505,7 +506,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Rafansyah</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-rafansyah.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/rafa">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -513,11 +514,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-rafirei.png" alt="">
             <div class="down-content">
               <h4>Rafi Rei Riordan</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-rafirei.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/rafirei">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -525,11 +526,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-ridhorizqi.png" alt="">
             <div class="down-content">
               <h4>Ridho Rizqi Pambudi</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/ridho">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -537,11 +538,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-rizkiamel.png" alt="">
             <div class="down-content">
               <h4>Rizki Amelia</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-rizkiamelia.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/rizki">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -549,11 +550,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-rizkyadi.png" alt="">
             <div class="down-content">
               <h4>Rizky Adinugraha Irmansyah</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-rizkyadi.jpeg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/rizkyadi">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -561,11 +562,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-saady.png" alt="">
             <div class="down-content">
               <h4>Saady Muflih</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-saadym.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/saady">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -573,11 +574,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-septhea.png" alt="">
             <div class="down-content">
               <h4>Septhea Zisca Aurora</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-septheazisca.png" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/septhea">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -589,7 +590,7 @@ https://templatemo.com/tm-557-grad-school
             <div class="down-content">
               <h4>Syawal Waskito</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/syawal">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -597,11 +598,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-thoriqnabil.png" alt="">
             <div class="down-content">
               <h4>Thoriq Nabil Mumtaz</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-thoriqnabil.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/thoriq">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -609,11 +610,11 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
-            <img src="/index/assets/images/web-portofolio-murid/portofolio-fauzankirana.png" alt="">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-tsaqif.png" alt="">
             <div class="down-content">
-              <h4>Tsaqif Maulana</h4>
+              <h4>Tsaqif Maulana Adyuta Laksono</h4>
               <div class="author-image">
-                <img src="/index/assets/images/author-01.png" alt="">
+                <img src="/index/assets/images/pfp-murid/pfp-default.jpg" alt="">
               </div>
               <div class="text-button-pay">
                 <a href="/tsaqif">Detail <i class="fa fa-angle-double-right"></i></a>
@@ -626,13 +627,13 @@ https://templatemo.com/tm-557-grad-school
   </section>
   
 
-  <section class="section video" data-section="section5">
+  <!-- <section class="section video" data-section="section5">
     <div class="container">
       <div class="row">
         <div class="col-md-6 align-self-center">
           <div class="left-content">
             <span>our presentation is for you</span>
-            <h4>Watch the video to learn more <em>about ONE SOLVER</em></h4>
+            <h4>Learn more <em>about ONE SOLVER</em></h4>
             <p>You are NOT allowed to redistribute this template ZIP file on any template collection website. However, you can use this template to convert into a specific theme for any kind of CMS platform such as WordPress. You may <a rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact TemplateMo</a> for details.
             <br><br>Suspendisse tincidunt, magna ut finibus rutrum, libero dolor euismod odio, nec interdum quam felis non ante.</p>
             <div class="main-button"><a href="https://fb.com/templatemo">FOLLOW US</a></div>
@@ -650,7 +651,7 @@ https://templatemo.com/tm-557-grad-school
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="section contact" data-section="section6">
     <div class="container">
