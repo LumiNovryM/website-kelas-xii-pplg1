@@ -63,7 +63,7 @@
             </ul>
             <div class="desk">
                 <h1 class="logo-2">Hi, I'am Lumi</h1>
-                <h4>Front-End Developer</h4>
+                <h4>Web Developer</h4>
                 <p>Students who are enthusiastic, disciplined, and enthusiastic. Logical and systematic. Quick to learn and glad to learn new things</p>
                 <button class="BT-2">Contact Me <i class="uil uil-message" id="sc"></i></button>
             </div>

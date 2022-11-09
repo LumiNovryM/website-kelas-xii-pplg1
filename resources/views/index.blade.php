@@ -245,7 +245,7 @@ https://templatemo.com/tm-557-grad-school
                 <img src="/index/assets/images/pfp-murid/pfp-dexiehazel.jpeg" alt="">
               </div>
               <div class="text-button-pay">
-                <a href="/dexie"">Detail <i class="fa fa-angle-double-right"></i></a>
+                <a href="/dexie">Detail <i class="fa fa-angle-double-right"></i></a>
               </div>
             </div>
           </div>
